@@ -13,7 +13,7 @@ New York has 5 boroughs and the bikes station are only in 4 of the 5 boroughs
 2. The areas that do not have bike stations are predominantly residential and suburban.
 3. The areas that have the bike are mostly commercial areas, urban areas and areas associated with heavy traffic.
 4. Males and Females have the same use pattern.
-5. The bikes are used most frequently during rush hour periods. 
+5. The bikes are used most frequently during [rush hour periods](https://public.tableau.com/app/profile/yomi.sosanya/viz/CitiBikeWorkbook_16374669065820/NYCCitiBike). 
 
 
 ## Summary:
